@@ -11,5 +11,5 @@ func main() {
 	b := 20
 	sum := add(a, b)
 	fmt.Println(sum)
-	fmt.Println("Mahib Alam Khan")
+	fmt.Println("Mahib")
 }
